@@ -1,0 +1,30 @@
+.navbar-nav{
+    margin-left: 750px;
+}
+.container-fluid img{
+    width: 100px;
+    height: 20px;
+}
+#photo2{
+    height: 70px;
+}
+#card1{
+    background-color: aquamarine;
+}
+#card2{
+    background-color:DodgerBlue;
+}
+#card3{
+    background-color: rgb(60, 60, 60);
+}
+.card-title,.card-text{
+    color: white;
+}
+.image{
+    
+}
+    
+
+
+    
+
